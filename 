@@ -1,0 +1,89 @@
+[33mcommit 59d517bef333ac6166f073c01a9c217663d86d33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:34:16 2020 +0800
+
+    Revert "Revert-2"
+    
+    This reverts commit dea1aea3146183cc0016bd4f7ed6bb3b0d2467a9.
+
+[33mcommit 4cf495387a5ea2184220687e0dd6f59556591e2a[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:34:11 2020 +0800
+
+    Revert-3
+
+[33mcommit dea1aea3146183cc0016bd4f7ed6bb3b0d2467a9[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:33:42 2020 +0800
+
+    Revert-2
+
+[33mcommit e1fb28fb5516f8e721e7aaae6601ce7289b50e45[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:33:26 2020 +0800
+
+    Revert-1
+
+[33mcommit f84b28f59b7ec01067fda3ee5e0a596232b3725b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:32:04 2020 +0800
+
+    Revert "revert test"
+    
+    This reverts commit b34aad3ce149b2949e213a78db2760e8cd15b4aa.
+
+[33mcommit b34aad3ce149b2949e213a78db2760e8cd15b4aa[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 22:32:00 2020 +0800
+
+    revert test
+
+[33mcommit b8e5d25fbdf329daccd3dc8c2f2aa341b2c9fc13[m
+Merge: 6ba06b4 f08b81d
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 21:15:41 2020 +0800
+
+    Merging Testing-2
+
+[33mcommit 6ba06b4e4ead2fc95483790557fb7da100ba5602[m
+Merge: ce13695 f248392
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 21:15:06 2020 +0800
+
+    Merging Testing-1
+
+[33mcommit f08b81d84df40ab86c0845a5d97f206aabd8341c[m[33m ([m[1;32mTesting-New-Feature-2[m[33m)[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 21:11:27 2020 +0800
+
+    changing Chapter 1 2nd
+
+[33mcommit ce1369528b40ce1ab266c017ca655a637d73b06a[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 21:09:41 2020 +0800
+
+    none
+
+[33mcommit dbb717d2c607a2126f62791857035ea6b90248a0[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 20:59:17 2020 +0800
+
+    adding chapter 4
+
+[33mcommit f248392fe227ac74292312f33ac69db3382ba8fa[m[33m ([m[1;32mTesting-New-Feature[m[33m)[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 20:55:57 2020 +0800
+
+    changing Chapter 1
+
+[33mcommit 178c75711ccc71afba42be399a4848d93f35e0b1[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 15:29:12 2020 +0800
+
+    complete chapter 2 and 3
+
+[33mcommit e77d199574bcbef2f16e226fed016bf8e8810844[m
+Author: Lucas Ho <lucasho0629@gmail.com>
+Date:   Wed Sep 23 15:26:32 2020 +0800
+
+    First commit
