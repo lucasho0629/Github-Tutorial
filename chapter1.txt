@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 First version of the text.
 =======
 First version of the text.
 Testing new feature
 >>>>>>> Testing-New-Feature
+=======
+First version of the text.
+
+Testing another new feature
+>>>>>>> Testing-New-Feature-2
